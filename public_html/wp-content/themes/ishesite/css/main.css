@@ -1,0 +1,171 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+@media (min-width: 981px) {
+    body {
+      padding-top: 60px;
+    }
+  }
+
+@font-face {
+    font-family: myFont;
+    src: url(../font/josefin.otf);
+}
+
+@font-face {
+    font-family: myCaviar;
+    src: url(../font/caviardreams.ttf);
+}
+
+.eraserBorder {
+    border-bottom: none !important;
+    border: none !important;
+}
+
+.navbar-default{
+    background-image: url("../images/heading.png") !important;
+     height: auto;
+     background-size: 80px;
+}
+.carouselCus {
+     
+     
+     bottom: -50px !important;
+    }   
+.carouselCus .active {
+    background-color:#5aebc4 !important;
+   
+    }   
+ .carouselCus li {
+    
+     background-color:#fff !important;
+    }   
+ .jumbotron {
+    background-color: #e9f7f6 !important;
+    }   
+.innerP {
+    font-family: myFont;
+    font-size: 22px;
+}
+.innerPs {
+    font-family: myFont;
+    font-size: 16px !important;
+}
+.bar {
+    background-color: #5aebc4 !important;
+}
+.web {
+    color: white;
+    font-family: myFont;
+    font-size: 35px;
+    padding-bottom: 10px;
+
+}
+
+.formBG  {
+    background-color: #78605f;
+    border: 3px solid white;
+    border-radius: 10px;
+    
+}
+.panelBG {
+    background-color: #9b7b59 !important;
+    border-radius-right: 10px !important;
+    border-radius-left: 10px !important;
+}
+
+
+.formBG h2 {
+   font-family: myFont;
+   font-size: 38px;
+   color: white;
+}
+
+.formBG p {
+    font-family: myFont;
+    font-size: 18px;
+    color: #f8bb17;
+}
+
+.contactSpan {
+       color: #f8bb17 !important;
+}
+.contactP {
+    color: white !important;
+}
+.boldFont {
+    font-weight: bold;
+}
+
+.blackColor {
+  color: #000 !important;    
+    
+}
+
+.logoImage {
+    padding-top: 2px !important;
+}
+.logoImage img{
+   height: 70px;
+   padding-top: 5px;
+}
+
+#menu ul {
+    padding-top: 0px;
+}
+#menu ul li a{
+    font-family: myFont;
+    font-size: 35px;
+    color: #000;
+}
+.navbar-nav > .active > a{
+     background-color: #5aebc4 !important;
+}
+.navbar-toggle {
+ background-color: #999 !important;
+ margin-top: 15px !important;
+}
+
+.navbar-fixed-top {
+    border-width: 0px !important;
+}
+.pads {
+    margin-top: 145px;
+    
+}
+
+.checkIcon {
+    height: 1px !important;
+    width: 1px !important;
+    padding-right: 6px !important;
+    padding-left: 1px !important;
+}
+
+.eraser {
+    border: 0px solid !important;
+    background-color: #5aebc4 !important;
+    box-shadow: none !important;
+    
+}
+
+.well {
+    padding: 19px !important;
+    background-image: none !important;
+}
+
+.badge {
+    
+    display: none !important;
+}
+.navbar-brand img {
+    width: 70px !important;
+}
+
+.input-group-addon {
+ display: none !important;
+}
+
+.panel {
+  
+}
