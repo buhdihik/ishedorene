@@ -24,7 +24,7 @@
             <div class="col-lg-5">
                <div class="panel panel-success" style="margin-top:50px;">
                       
-                      <div class="panel-heading"> <h4 class="innerP">Follow me</h4></div>
+                      <div class="panel-heading"> <h4 class="innerP">Follow you</h4></div>
                          <div class="panel-body">
                             <a class="btn btn-block btn-social btn-facebook">
                                     <span class="fa fa-facebook"></span> Sign in with Facebook
