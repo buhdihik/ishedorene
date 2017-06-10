@@ -116,7 +116,7 @@
 }
 #menu ul li a{
     font-family: myFont;
-    font-size: 35px;
+    font-size: 30px;
     color: #000;
 }
 .navbar-nav > .active > a{
@@ -166,6 +166,6 @@
  display: none !important;
 }
 
-.panel {
-  
+.panel-heading {
+  background-image: linear-gradient(to bottom,#F0B22B,#e8e8e8 100%)!important;
 }
